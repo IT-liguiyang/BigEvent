@@ -19,3 +19,7 @@ body {
   padding-top: 20px;
   padding-right: 30px;
 }
+
+.layui-input{
+padding-left: 10px;
+}
